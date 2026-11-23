@@ -67,7 +67,7 @@ CCS3208-Week4-Information-Theoretic-Compression/
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/TabbyMacharia/CCS3208-Week4-Information-Theoretic-Compression.git
+   git clone https://github.com/TabbyMacharia/-CCS3208-Week4-Information-Theoretic-Compression.git
    ```
 
 2. Open the project in PyCharm.
